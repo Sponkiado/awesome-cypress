@@ -201,3 +201,8 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 - [Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!](https://github.com/riccardogiorato/cypress-for-everything)
 - [Cypress recipes for common scenarios](https://github.com/cypress-io/cypress-example-recipes)
+
+## Testando edição de fork
+
+-- Cristian Sponchiado
+
